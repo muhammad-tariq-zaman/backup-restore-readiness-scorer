@@ -1,0 +1,4 @@
+system,last_restore_test,encryption,offsite_copy,backup_verified
+SYS-1,2026-11-01,yes,yes,yes
+SYS-2,2026-09-01,yes,no,yes
+SYS-3,2026-03-01,no,no,no
